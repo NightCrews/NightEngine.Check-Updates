@@ -1,2 +1,2 @@
 # Check-Updates
-Update Handler for check versions of our projects
+Update Handler for check versions of NightEngine.
